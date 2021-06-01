@@ -41,6 +41,7 @@ const UserList = () => {
           type="text"
           placeholder="Search"
         />
+        <button>Alphabatize</button>
       </StyledInput>
       <StyledList>
         {userData.map((user) => (
