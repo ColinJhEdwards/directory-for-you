@@ -18,7 +18,7 @@ const UserCard = ({
         <img src={picture} alt="user-image" />
         <h2> {name} </h2>
         <p>
-          Age: {age} Gender: {gender}
+          <span>Age:</span> {age} <span>Gender:</span> {gender}
         </p>
       </div>
       <div className="contact">
