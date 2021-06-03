@@ -58,6 +58,7 @@ const StyledUser = styled.div`
     align-items: center;
     img {
       border-radius: 50%;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     }
   }
   .contact {
