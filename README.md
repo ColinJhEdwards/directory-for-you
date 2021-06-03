@@ -2,6 +2,8 @@
 
 - An employee directory created with React which allows users to view an entire employee directory at once creating quick access to non-sensitive data. Users can search for specific employees or sort them alphabetically.
 
+https://directory-for-you.herokuapp.com/
+
 ![preview-image-of-app](img/preview.png)
 
 # User Story
