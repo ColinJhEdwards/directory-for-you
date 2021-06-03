@@ -1,6 +1,6 @@
 # directory-for-you
 
-- An employee directory created with React which allows users to view an entire employee directory at once creating quick access to non-sensitive data. Users can search for specific employees are sort them alphabetically.
+- An employee directory created with React which allows users to view an entire employee directory at once creating quick access to non-sensitive data. Users can search for specific employees or sort them alphabetically.
 
 ![preview-image-of-app](img/preview.png)
 
